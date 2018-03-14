@@ -99,7 +99,7 @@
 
 ### XDAG
 
-- 简介：可以挖矿
+- 简介：首个可以挖矿的DAG
 - [创世贴](https://bitcointalk.org/index.php?topic=2552368.0)
 - [官网](http://xdag.io/)
 - [白皮书](https://docs.google.com/document/d/1ruNpTVghy0Xsb8gOa-8sYG58GHU_ibeGnwJi2h0TTnA/edit)
@@ -117,6 +117,7 @@
 ### 其它
 
 + [daglabs](https://www.daglabs.com/) - 主要实现SPECTRE和PHANTOM两种DAG上的共识算法
++ [Get Rid of Blocks](http://slides.com/davidvorick/braids)
 
 
 
