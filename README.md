@@ -10,12 +10,17 @@
 
 ## 目录
 
++ [DAG基础](#DAG基础)
 + [早期文章](#早期文章)
 + [典型实现](#典型实现)
 + [技术对比](#技术对比)
 + [相关人物](相关人物)
 
 
+## DAG基础
+
++ [DAG - Wikipedia](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
++ [DAG在分布式版本控制Git上的应用](http://ericsink.com/vcbe/html/directed_acyclic_graphs.html)
 
 
 ## 早期文章
@@ -126,6 +131,7 @@
 
 + [IOTA vs RaiBlocks](https://hackernoon.com/iota-vs-raiblocks-413679bb4c3e)
 + [DAG coin comparison (Byteball, IOTA, RaiBlocks, etc)](https://web.archive.org/web/20171211100146/https://www.reddit.com/r/CryptoCurrency/comments/7iv20r/dag_coin_comparison_byteball_iota_raiblocks_etc/)
++ [ByteBall vs IOTA - battle of two DAG cryptocurrencies](https://steemit.com/cryptocurrency/@jimmco/byteball-vs-iota-battle-of-two-dag-cryptocurrencies)
 
 
 
