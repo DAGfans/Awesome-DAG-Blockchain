@@ -10,12 +10,18 @@
 
 ## 目录
 
+=======
++ [DAG基础](#DAG基础)
 + [主要论文](#主要论文)
 + [典型实现](#典型实现)
 + [技术对比](#技术对比)
 + [相关人物](#相关人物)
 
 
+## DAG基础
+
++ [DAG - Wikipedia](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
++ [DAG在分布式版本控制Git上的应用](http://ericsink.com/vcbe/html/directed_acyclic_graphs.html)
 
 
 ## 主要论文
@@ -100,7 +106,7 @@
 
 ### XDAG
 
-- 简介：可以挖矿
+- 简介：首个可以挖矿的DAG
 - [创世贴](https://bitcointalk.org/index.php?topic=2552368.0)
 - [官网](http://xdag.io/)
 - [白皮书](https://docs.google.com/document/d/1ruNpTVghy0Xsb8gOa-8sYG58GHU_ibeGnwJi2h0TTnA/edit)
@@ -118,6 +124,7 @@
 ### 其它
 
 + [daglabs](https://www.daglabs.com/) - 主要实现SPECTRE和PHANTOM两种DAG上的共识算法
++ [Get Rid of Blocks](http://slides.com/davidvorick/braids)
 
 
 
@@ -126,6 +133,7 @@
 
 + [IOTA vs RaiBlocks](https://hackernoon.com/iota-vs-raiblocks-413679bb4c3e)
 + [DAG coin comparison (Byteball, IOTA, RaiBlocks, etc)](https://web.archive.org/web/20171211100146/https://www.reddit.com/r/CryptoCurrency/comments/7iv20r/dag_coin_comparison_byteball_iota_raiblocks_etc/)
++ [ByteBall vs IOTA - battle of two DAG cryptocurrencies](https://steemit.com/cryptocurrency/@jimmco/byteball-vs-iota-battle-of-two-dag-cryptocurrencies)
 
 
 
